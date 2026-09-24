@@ -4,7 +4,7 @@ This is an income statement projections project using a sample 2021 income state
 
 This project aims to do the following:
 
-1. **Project the net income for the years 2022-2025, given assumptions about the annual changes in each component of revenue and expenses.**
+**<u>1. Project the net income for the years 2022-2025, given assumptions about the annual changes in each component of revenue and expenses.</u>**
 
 This is implemented in `income statement projections.xlsm`, which contains the following worksheets:
 - **2021 Income Statement**: The sample 2021 income statement.
@@ -18,6 +18,6 @@ This is implemented in `income statement projections.xlsm`, which contains the f
         - Investment Income: increase by 0.625% (multiplicatively)
         - Gross Claims: decrease by 0.7% (multiplicatively)
 
-2. **Compute the total net income for the years 2022-2025 for 100 different scenarios of annual changes, accounting for interest rates of 2%, 4%, 6%, and 8%.**
+**<u>2. Compute the total net income for the years 2022-2025 for 100 different scenarios of annual changes, accounting for interest rates of 2%, 4%, 6%, and 8%.</u>**
 
 This is implemented in `total net income for forecasting data scenarios.xlsm`, using macros. Note that in order to run these macros, ensure that macros are enabled for this file and that `income statement projections.xlsm` is opened as well.
